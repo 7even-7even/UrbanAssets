@@ -3,11 +3,11 @@ Urban Assets is an Android Application developed in Android Studio using Java an
 
 ## Contributors
 
-Shravani Kamble
-Akshay Lakhwal
-Suraj Nakhale
-Jayartha Sengupta
-Siddharth Ohal
+Shravani Kamble,
+Akshay Lakhwal,
+Suraj Nakhale,
+Jayartha Sengupta,
+Siddharth Ohal,
 
 ## Purpose
 In today’s era, subscription services are common. Also you have the usual array of rent and 
